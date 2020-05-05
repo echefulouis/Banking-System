@@ -1,0 +1,4 @@
+echefu,15000,savings,echefu@gmail.com,1060622328
+chisom,7000,current,chisom@gmail.com,1613718101
+sochima,3000,savings,sochima@gmail.com,1897950394
+somto,700000,savings,adam@gmail.com,1112385539
