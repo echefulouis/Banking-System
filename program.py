@@ -68,6 +68,7 @@ def functions():
                                 print(f"Opening Balance- {amount}")
                                 print(f"Account Type-{acc_type}")
                                 print(f"Account Email-{acc_mail}")
+                                file.close()
                                 break
                         else:
                             print("Invalid Account Number")
